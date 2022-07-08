@@ -44,6 +44,9 @@ Your images can be fed using the following snippet
 
 
 ```
+
+from keras.preprocessing.image import ImageDataGenerator
+
 datagen = ImageDataGenerator()
 batch_size = 32
 img_height = 32
