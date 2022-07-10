@@ -21,6 +21,8 @@ Implementation using the book  "Hands on Machine Learning with Sci-Kit Learn Ker
 
 * Xception Model 
 
+* MobileNet
+
 
 ## How can you use these notebooks?
 
