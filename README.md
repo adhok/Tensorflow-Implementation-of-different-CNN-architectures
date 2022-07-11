@@ -23,6 +23,10 @@ Implementation using the book  "Hands on Machine Learning with Sci-Kit Learn Ker
 
 * MobileNet
 
+* MobileNetV2
+
+* Squeeze and Excitation ResNet - 50 (SE ResNet - 50)
+
 
 ## How can you use these notebooks?
 
