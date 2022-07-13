@@ -27,6 +27,8 @@ Implementation using the book  "Hands on Machine Learning with Sci-Kit Learn Ker
 
 * Squeeze and Excitation ResNet - 50 (SE ResNet - 50)
 
+* SE - ResNeXt - 50
+
 
 ## How can you use these notebooks?
 
