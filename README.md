@@ -88,3 +88,5 @@ history = model.fit(train_data,epochs = 100,validation_data = val_data,callbacks
 
 ```
 
+
+
